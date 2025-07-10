@@ -1,0 +1,6 @@
+pyusb
+opencv-python
+gymnasium
+stable-baselines3[extra]
+numpy
+torch
